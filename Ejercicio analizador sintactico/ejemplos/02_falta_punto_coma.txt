@@ -1,0 +1,2 @@
+int contador = 0
+print(contador);

@@ -1,0 +1,12 @@
+// Declaraciones, expresiones y estructuras anidadas
+int contador = 0;
+float precio = 12.5;
+while (contador < 5) {
+    contador = contador + 1;
+    print(contador);
+}
+if (precio >= 10) {
+    print(precio * 2);
+} else {
+    print(0);
+}
